@@ -2,6 +2,8 @@ All about GitHub Accelerator Program
 
 A Thread 🧵⬇️
 
+<img src="https://github.com/Arindam200/My_Threads/blob/main/Threads/GitHub%20Accelerator%20Program/og-image.jpg">
+
 
 ✅What is GitHub Accelerator Program?
 
