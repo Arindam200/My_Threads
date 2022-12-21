@@ -41,8 +41,8 @@ Anyone who is a current contributor or maintainer of an open-source project on G
 
 ✅ Resources :
 
-Youtube: https://youtube.com/watch?v=HH3Frl2_e80
+1. [Youtube](https://youtube.com/watch?v=HH3Frl2_e80)
 
-Blog: https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/
+2. [Blog](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
 
-Page: https://accelerator.github.com/
+3. [Page](https://accelerator.github.com/)
