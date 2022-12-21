@@ -24,14 +24,19 @@ Anyone who is a current contributor or maintainer of an open-source project on G
 
 ✅You must also:
 
-• Have an active online profile on GitHub
+• Have an active online profile on GitHub 
+<br>
 • Be located in one of the regions supported by GitHub Sponsors
+<br>
 • Not be a current employee of GitHub and/or any of its parent/subsidiary companies
+<br>
 
 ✅ Benefits:
 
 • $20,000 in sponsorship
+<br>
 • Mentorship
+<br>
 • Dedicated product support
 
 ✅ Resources :
